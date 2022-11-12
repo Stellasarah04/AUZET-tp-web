@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://cache.desktopnexus.com/thumbseg/2560/2560255-bigthumbnail.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color: white;
+    font-size: 30px;
+}
+
+a{
+    margin: 10px 500px 10px 600px;
+    color: white;
+}
+
+.img{
+    margin: 10px 500px 10px 600px;
+    background-size: cover;
+}
+
+input{
+color:black;
+background-color:aquamarine;
+border: none; 
+font-size: 30px;
+}
+
+.Archère {
+    position: relative;
+    left: -300px ;
+    bottom: 10px;
+}
+
+.Chevalier {
+    position: relative;
+    left: -100px ;
+    bottom: 44px;
+    
+}
+.Gobelin {
+    position: relative;
+    left: 100px ;
+    bottom: 78px;
+}
+    
+.Magicien {
+    position: relative;
+    left: 300px ;
+    bottom: 112px;
+}
+
+.Guerrier_Nain {
+    position: relative;
+    left: 500px ;
+    bottom: 148px;
+}
+
+.Ogre {
+    position: relative;
+    left: 800px ;
+    bottom: 181px;
+}

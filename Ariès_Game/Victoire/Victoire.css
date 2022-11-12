@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/59/c8/01/59c8014aba30847bb56a1e1446893d1f--landscape-posters-landscape-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color:ghostwhite;
+    font-size: 30px;
+}
+
+.img{
+    margin: 10px 500px 10px 600px;
+    background-size: cover;
+}
+
+input{
+    color:black;
+    background-color:aquamarine;
+    border: none; 
+    font-size: 30px;
+    }
+    
+.Acceil {
+    position: relative;
+    left: -300px ;
+    bottom: 10px;
+ }

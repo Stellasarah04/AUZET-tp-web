@@ -1,0 +1,58 @@
+body {
+    background-image: url(https://ns328286.ip-37-187-113.eu/ew/wallpapers/800x480/07221_800x480.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color:ghostwhite;
+    font-size: 30px;
+}
+
+.img{
+    margin: 10px 500px 10px 600px;
+    background-size: cover;
+}
+
+input{
+    color:black;
+    background-color:aquamarine;
+    border: none; 
+    font-size: 30px;
+}
+
+.Dragon {
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Serpent {
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Araigné{
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Méchant {
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Bélier {
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Pièges {
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}

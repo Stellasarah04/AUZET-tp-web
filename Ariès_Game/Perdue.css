@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20200914/pngtree-halloween-bloodstain-blood-background-image_398567.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color:ghostwhite;
+    font-size: 30px;
+}
+
+.img{
+    margin: 10px 500px 10px 600px;
+    background-size: cover;
+}
+
+input{
+    color:black;
+    background-color:aquamarine;
+    border: none; 
+    font-size: 30px;
+    }
+    
+.Acceil {
+    position: relative;
+    left: -300px ;
+    bottom: 10px;
+ }

@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://st3.depositphotos.com/1001411/16389/i/600/depositphotos_163897760-stock-photo-magic-potion-ancient-books-and.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color:ghostwhite;
+    font-size: 30px;
+}
+
+.img{
+    margin: 10px 500px 10px 600px;
+    background-size: cover;
+}
+
+input{
+    color:black;
+    background-color:aquamarine;
+    border: none; 
+    font-size: 30px;
+}
+
+.Potion_Vie{
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Potion_Renforcement{
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Potion_Attaque{
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}

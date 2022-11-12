@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/6b/a0/7f/6ba07f9e120d73402e41448e189b6eff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color:ghostwhite;
+    font-size: 30px;
+}
+
+.img{
+    margin: 10px 500px 10px 600px;
+    background-size: cover;
+}
+
+input{
+    color:black;
+    background-color:aquamarine;
+    border: none; 
+    font-size: 30px;
+}
+
+.Potion {
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Aliés{
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
+
+.Magma{
+    position: relative;
+    left: 0px ;
+    bottom: 0px;
+}
