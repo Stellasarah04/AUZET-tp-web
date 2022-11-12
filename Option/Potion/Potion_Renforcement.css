@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 p{
     color:white;
     font-size: 30px;
@@ -18,41 +19,50 @@ input{
     background-color:blue;
     border: none; 
     font-size: 30px;
+    position: relative;
+    left: 0px ;
+    top : 30px;
     margin : 30px;
 }
 
 .Dragon {
     position: relative;
-    left: 0px ;
+    left: 600px ;
     bottom: 0px;
+    margin : 30px;
 }
 
 .Serpent {
     position: relative;
-    left: 0px ;
+    left: 600px ;
     bottom: 0px;
+    margin : 30px;
 }
 
 .Araigné{
     position: relative;
-    left: 0px ;
+    left: 600px ;
     bottom: 0px;
+    margin : 30px;
 }
 
 .Méchant {
     position: relative;
-    left: 0px ;
+    left: 600px ;
     bottom: 0px;
+    margin : 30px;
 }
 
 .Bélier {
     position: relative;
-    left: 0px ;
+    left: 600px ;
     bottom: 0px;
+    margin : 30px;
 }
 
 .Pièges {
     position: relative;
-    left: 0px ;
+    left: 600px ;
     bottom: 0px;
+    margin : 30px;
 }
