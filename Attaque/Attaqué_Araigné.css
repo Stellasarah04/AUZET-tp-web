@@ -1,11 +1,12 @@
 body {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQla2FDDA-ahC2NxWTzXm5VLf5Ms6qVCPqB6_6ra_Ek-K3htQqTgs3fKPiVZ917FvCMUig&usqp=CAU);
+    background-image: url(https://ns328286.ip-37-187-113.eu/ew/wallpapers/800x480/13972_800x480.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+
 p{
-    color:ghostwhite;
+    color:white;
     font-size: 30px;
 }
 
@@ -14,21 +15,21 @@ p{
     background-size: cover;
 }
 
-
 input{
-    color:black;
-    background-color:aquamarine;
+    color:white;
+    background-color:blue;
     border: none; 
     font-size: 30px;
+    margin : 30px;
 }
 
-.Potion {
+.Continuer {
     position: relative;
     left: 0px ;
     bottom: 0px;
 }
 
-.Aliés {
+.Victoire {
     position: relative;
     left: 0px ;
     bottom: 0px;

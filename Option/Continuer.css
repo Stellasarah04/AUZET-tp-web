@@ -1,11 +1,11 @@
 body {
-    background-image: url(https://c.wallhere.com/photos/ff/80/1920x1200_px_artwork_boat_Cabin_clouds_dog_forest_house-519611.jpg!d);
+    background-image: url(https://ns328286.ip-37-187-113.eu/ew/wallpapers/800x480/13972_800x480.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 p{
-    color:ghostwhite;
+    color:white;
     font-size: 30px;
 }
 
@@ -15,10 +15,11 @@ p{
 }
 
 input{
-    color:black;
-    background-color:aquamarine;
+    color:white;
+    background-color:blue;
     border: none; 
     font-size: 30px;
+    margin : 30px;
 }
 
 .Continuer {

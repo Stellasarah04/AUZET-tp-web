@@ -9,55 +9,51 @@ p{
     font-size: 30px;
 }
 
-a{
-    margin: 10px 500px 10px 600px;
-    color: white;
-}
-
 .img{
     margin: 10px 500px 10px 600px;
     background-size: cover;
 }
 
 input{
-color:black;
-background-color:aquamarine;
+color:white;
+background-color:blue;
 border: none; 
 font-size: 30px;
+margin : 20px ;
 }
 
 .Archère {
     position: relative;
     left: -300px ;
-    bottom: 10px;
+    bottom: 0px;
 }
 
 .Chevalier {
     position: relative;
     left: -100px ;
-    bottom: 44px;
+    bottom: 0px;
     
 }
 .Gobelin {
     position: relative;
     left: 100px ;
-    bottom: 78px;
+    bottom: 0px;
 }
     
 .Magicien {
     position: relative;
     left: 300px ;
-    bottom: 112px;
+    bottom: 0px;
 }
 
 .Guerrier_Nain {
     position: relative;
     left: 500px ;
-    bottom: 148px;
+    bottom: 0px;
 }
 
 .Ogre {
     position: relative;
-    left: 800px ;
-    bottom: 181px;
+    left: 700px ;
+    bottom: 0px;
 }

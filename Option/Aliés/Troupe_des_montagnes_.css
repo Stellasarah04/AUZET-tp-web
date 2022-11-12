@@ -4,20 +4,22 @@ body {
     background-size: cover;
 }
 
+p{
+    color:white;
+    font-size: 30px;
+}
+
 .img{
+    margin: 10px 500px 10px 600px;
     background-size: cover;
 }
 
-p{
-    color:ghostwhite;
-    font-size: 30px;
-}
-
 input{
-    color:black;
-    background-color:aquamarine;
+    color:white;
+    background-color:blue;
     border: none; 
     font-size: 30px;
+    margin : 30px;
 }
 
 .Dragon {

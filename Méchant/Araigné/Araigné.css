@@ -5,7 +5,7 @@ body {
 }
 
 p{
-    color:ghostwhite;
+    color:white;
     font-size: 30px;
 }
 
@@ -14,27 +14,21 @@ p{
     background-size: cover;
 }
 
-
 input{
-    color:black;
-    background-color:aquamarine;
+    color:white;
+    background-color:blue;
     border: none; 
     font-size: 30px;
+    margin : 30px;
 }
 
-.Potion {
+.Attaqué {
     position: relative;
     left: 0px ;
     bottom: 0px;
 }
 
-.Aliés{
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
-}
-
-.Magma{
+.Perdue{
     position: relative;
     left: 0px ;
     bottom: 0px;
