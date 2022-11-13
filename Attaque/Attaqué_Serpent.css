@@ -2,6 +2,7 @@ body {
     background-image: url(https://ns328286.ip-37-187-113.eu/ew/wallpapers/800x480/13972_800x480.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{

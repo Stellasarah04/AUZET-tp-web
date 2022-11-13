@@ -2,6 +2,7 @@ body {
     background-image: url(https://p0.pikist.com/photos/648/597/forest-glade-meadow-nature-trees-mood-atmosphere-landscape-fairy-tale-forest.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 

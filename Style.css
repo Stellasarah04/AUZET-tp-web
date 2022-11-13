@@ -2,11 +2,19 @@ body{
     background-image: url(https://cache.desktopnexus.com/thumbseg/2560/2560255-bigthumbnail.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{
-    color: white;
+    color:blue;
     font-size: 30px;
+    text-align: center;
+}
+
+div p {
+    color:white;
+    font-size: 30px;
+    text-align: center;
 }
 
 .img {
@@ -26,3 +34,4 @@ input{
     top : 0px;
     margin : 30px;
 }
+

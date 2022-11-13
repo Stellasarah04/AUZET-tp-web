@@ -2,6 +2,7 @@ body {
     background-image: url(https://i.pinimg.com/originals/45/3d/3f/453d3f5b467f4b60af4f4522955b1d54.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{

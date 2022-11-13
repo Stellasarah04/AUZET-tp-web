@@ -2,6 +2,7 @@ body {
     background-image: url(https://wallpaperaccess.com/full/3352660.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{

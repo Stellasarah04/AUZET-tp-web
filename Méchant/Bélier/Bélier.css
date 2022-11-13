@@ -2,6 +2,7 @@ body {
     background-image: url(https://p4.wallpaperbetter.com/wallpaper/82/304/1010/castles-castle-artistic-cloud-wallpaper-preview.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{

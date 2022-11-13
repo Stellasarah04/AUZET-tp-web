@@ -2,6 +2,7 @@ body {
     background-image: url(https://m.media-amazon.com/images/I/71ITTOf7nGL._AC_SX450_.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{

@@ -2,6 +2,7 @@ body {
     background-image: url(https://p4.wallpaperbetter.com/wallpaper/591/986/527/landscape-nature-milky-way-galaxy-starry-night-desert-moonlight-long-exposure-new-mexico-wallpaper-preview.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{

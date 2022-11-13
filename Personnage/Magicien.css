@@ -2,24 +2,13 @@ body {
     background-image: url(https://i0.wp.com/www.photo-paysage.com/albums/userpics/10001/normal_Col_de_la_Pare_photographie_depuis_le_col_du_Galibier.jpg?resize=525%2C349&ssl=1);
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-div p {
-    color:red;
-    font-size: 50px;
-    position: relative;
-    left: 800px ;
-}
-
-p {
-    color :white ;
-    font-size : 30px; 
+    background-attachment: fixed;
 }
 
 div .img{
     background-size: cover;
     position: relative;
-    left: 700px ;
+    left: 750px ;
 }
 
 .img{
@@ -28,22 +17,26 @@ div .img{
     left: 550px ;
 }
 
+div p {
+    color:blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    color :blue ;
+    font-size : 30px; 
+    position : relative ;
+    top : 50px;
+}
+
 input{
     color:white;
     background-color:blue;
     border: none; 
     font-size: 30px;
     margin : 30px;
-}
-
-.Magma {
     position: relative;
-    left: 450px ;
-    bottom: 0px;
-}
-
-.Potion {
-    position: relative;
-    left: 850px ;
-    bottom: 0px;
+    left: 750px ;
+    top : 10px;
 }

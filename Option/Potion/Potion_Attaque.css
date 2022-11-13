@@ -2,6 +2,7 @@ body {
     background-image: url(https://st4.depositphotos.com/9904426/21152/i/600/depositphotos_211529034-stock-photo-antique-and-vintage-glass-bottles.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{
@@ -20,49 +21,7 @@ input{
     border: none; 
     font-size: 30px;
     position: relative;
-    left: 0px ;
+    left: 750px ;
     top : 30px;
-    margin : 30px;
-}
-
-.Dragon {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Serpent {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Araigné{
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Méchant {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Bélier {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Pièges {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
     margin : 30px;
 }

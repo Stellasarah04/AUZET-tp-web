@@ -2,10 +2,11 @@ body {
     background-image: url(https://downloadwap.com/thumbs2/wallpapers/p2ls/new/40/FmxQlj9PSz.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{
-    color:white;
+    color:black;
     font-size: 30px;
 }
 

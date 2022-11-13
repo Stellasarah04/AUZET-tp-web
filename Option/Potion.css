@@ -2,6 +2,7 @@ body {
     background-image: url(https://st3.depositphotos.com/1001411/16389/i/600/depositphotos_163897760-stock-photo-magic-potion-ancient-books-and.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{
@@ -17,6 +18,7 @@ p{
 input{
     color:white;
     background-color:blue;
+    background-position: center;
     border: none; 
     font-size: 30px;
     position: relative;

@@ -2,6 +2,7 @@ body {
     background-image: url(https://perezartsplastiques.files.wordpress.com/2011/12/loup-hurlant-dans-la-nuit-bleu-73485.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p{
