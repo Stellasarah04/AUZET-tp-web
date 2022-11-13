@@ -6,8 +6,11 @@ body {
 }
 
 p{
-    color:black;
+    color:white;
     font-size: 30px;
+    background: blue ;
+    text-align: center;
+    margin : 30px;
 }
 
 .img{

@@ -8,6 +8,8 @@ body {
 p{
     color:white;
     font-size: 30px;
+    text-align: center;
+    background: blue;
 }
 
 .img {
