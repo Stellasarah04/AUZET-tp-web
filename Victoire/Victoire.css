@@ -9,9 +9,11 @@ p{
     font-size: 30px;
 }
 
-.img{
-    margin: 10px 500px 10px 600px;
-    background-size: cover;
+.img {
+    position: relative;
+    left: 600px ;
+    top : 0px;
+    margin : 30px;
 }
 
 input{
@@ -19,11 +21,8 @@ input{
     background-color:blue;
     border: none; 
     font-size: 30px;
+    position: relative;
+    left: 0px ;
+    top : 20px;
     margin : 30px;
 }
-    
-.Acceil {
-    position: relative;
-    left: -300px ;
-    bottom: 10px;
- }

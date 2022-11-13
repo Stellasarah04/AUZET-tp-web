@@ -19,29 +19,8 @@ input{
     background-color:blue;
     border: none; 
     font-size: 30px;
+    position: relative;
+    left: 800px ;
+    top : 0px;
     margin : 30px;
-}
-
-.Garien_des_cieux {
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
-}
-
-.Loup_solitaire {
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
-}
-
-.Mercenaire_Dompteur {
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
-}
-
-.Troupe_de_la_montagne {
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
 }

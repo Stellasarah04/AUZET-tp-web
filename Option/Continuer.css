@@ -22,14 +22,23 @@ input{
     margin : 30px;
 }
 
-.Continuer {
+.Magma {
     position: relative;
-    left: 0px ;
+    left: 50px ;
     bottom: 0px;
+    top: 30px;
 }
 
-.Victoire {
+.Potion{
     position: relative;
-    left: 0px ;
+    left: 50px ;
     bottom: 0px;
+    top: 30px;
+}
+
+.Aliés{
+    position: relative;
+    left: 50px ;
+    bottom: 0px;
+    top: 30px;
 }

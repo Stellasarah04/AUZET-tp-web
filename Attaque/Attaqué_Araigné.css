@@ -25,12 +25,14 @@ input{
 
 .Continuer {
     position: relative;
-    left: 0px ;
+    left: 100px ;
     bottom: 0px;
+    top: 100px;
 }
 
 .Victoire {
     position: relative;
-    left: 0px ;
+    left: 200px ;
     bottom: 0px;
+    top: 100px;
 }

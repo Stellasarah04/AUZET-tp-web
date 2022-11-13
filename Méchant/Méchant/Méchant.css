@@ -22,14 +22,17 @@ input{
     margin : 30px;
 }
 
+
 .Attaqué {
     position: relative;
-    left: 0px ;
+    left: 500px ;
     bottom: 0px;
+    top: 100px;
 }
 
-.Perdue {
+.Perdue{
     position: relative;
-    left: 0px ;
+    left: 900px ;
     bottom: 0px;
+    top: 100px;
 }

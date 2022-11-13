@@ -9,9 +9,19 @@ p{
     font-size: 30px;
 }
 
-.img{
-    margin: 10px 500px 10px 600px;
+.img {
+    position: relative;
+    left: 600px ;
+    top : 0px;
+    margin : 30px;
+}
+
+div .img{
     background-size: cover;
+    position: relative;
+    left: 650px ;
+    top : 0px;
+    margin : 30px;
 }
 
 input{
@@ -19,35 +29,8 @@ input{
     background-color:blue;
     border: none; 
     font-size: 30px;
+    position: relative;
+    left: 0px ;
+    top : 20px;
     margin : 30px;
-}
-
-.Dragon {
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
-}
-
-.Serpent {
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
-}
-
-.Araigné{
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
-}
-
-.Méchant {
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
-}
-
-.Bélier {
-    position: relative;
-    left: 0px ;
-    bottom: 0px;
 }

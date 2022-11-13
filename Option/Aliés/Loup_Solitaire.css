@@ -20,49 +20,7 @@ input{
     border: none; 
     font-size: 30px;
     position: relative;
-    left: 0px ;
-    top : 30px;
-    margin : 30px;
-}
-
-.Dragon {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Serpent {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Araigné{
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Méchant {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Bélier {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
-    margin : 30px;
-}
-
-.Pièges {
-    position: relative;
-    left: 600px ;
-    bottom: 0px;
+    left: 780px ;
+    top : 0px;
     margin : 30px;
 }
